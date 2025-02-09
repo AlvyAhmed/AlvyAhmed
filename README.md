@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Alvy!
-- 👀 I’m interested in ... so many things! But I do love to work on the lovely field of material science and its application. 
-- 🌱 I’m currently learning ... machine learning, modelling and optimization techniques. 
-- 💞️ I’m looking to collaborate on ... just about anything related to FEA, CFD, material modelling and more. 
+- 👋 Hi, I'm Alvy!
+- 👀 I’m interested in ... Renewable energy systems, CFD, materials, Photovoltaic systems, Battery energy storage and Energy storage systems. 
+- 🌱 I’m currently learning ... Machine Learning, CFD, Modelling and Optimization Techniques. 
+- 💞️ I’m looking to collaborate on ... Renewable energy projects.  
 - 📫 How to reach me ... find me at email: tamzeedahmed@iut-dhaka.edu 
-- 😄 Pronouns: ... I'm a man. 
-- ⚡ Fun fact: ... Nothing fun about me. 
+- 😄 Expertise: ... ANSYS, MATLAB, Python, Materials Studio, Solidworks and COMSOL.   
+- ⚡ Fun fact: ... I love photography. 
 
 <!---
 AlvyAhmed/AlvyAhmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
